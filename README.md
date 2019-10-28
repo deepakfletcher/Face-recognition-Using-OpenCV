@@ -1,3 +1,20 @@
 ***Face Recognition with OpenCV and Python***
 
-This is a simple python program which uses LBPH face recognizer to recognize faces.
+This Project allows you to understand LBPH face recognition is 
+
+Dependencies Needed are
+
+>numpy
+
+    pip install numpy
+    
+>OpenCV
+
+    pip install opencv-python
+
+>Python Image Library
+
+    pip install Pillow
+    
+clone the repo , install these dependencies and your good to go!
+## Stay Curious! Stay Creative!
