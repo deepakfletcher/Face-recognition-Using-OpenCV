@@ -1,4 +1,4 @@
-#Face Recognition with OpenCV and Python
+# Face Recognition with OpenCV and Python
 
 This Project allows you to understand LBPH face recognition is 
 
