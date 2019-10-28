@@ -1,8 +1,8 @@
 # Face Recognition with OpenCV and Python
 
-This Project allows you to understand LBPH face recognition,
+This Project allows you to understand LBPH face recognition ,
 
-Dependencies Needed for the program are
+Dependencies needed for the program are
 
 >numpy
 
